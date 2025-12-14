@@ -1,0 +1,28 @@
+# DS'F24 Morning Portal - Project Tasks
+
+- [ ] Initialize Project Structure
+    - [x] Create `task.md` and `implementation_plan.md`
+    - [/] Generate Mock Data (Student CSV)
+- [/] Backend Development (FastAPI)
+    - [/] Setup Virtual Environment & Install Dependencies
+    - [x] Create `requirements.txt`
+    - [ ] Design Database Schema (SQLModel/SQLAlchemy)
+    - [ ] Implement Authentication (JWT, Password Hashing)
+    - [ ] Create API Endpoints
+        - [ ] Auth & User Management
+        - [ ] Subject & Semester Management
+        - [ ] Attendance (Roll Call)
+        - [ ] Dashboard & Analytics
+    - [ ] Implement Mathematical Engine (Linear Algebra/Calculus)
+- [ ] Frontend Development (Flutter)
+    - [ ] Initialize Flutter Project
+    - [ ] Setup State Management (Riverpod/Provider)
+    - [ ] Implement UI Screens
+        - [ ] Login
+        - [ ] Dashboard (Student/CR)
+        - [ ] Attendance Marking (CR)
+    - [ ] Integrate API
+- [ ] Verification & Deployment
+    - [ ] Test Endpoints
+    - [ ] Verify Mathematical Models
+    - [ ] Final Review
