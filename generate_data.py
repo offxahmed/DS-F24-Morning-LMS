@@ -3,7 +3,7 @@ import random
 
 def generate_students():
     students = []
-    # Generate 62 students
+    # Generate 62 student
     for i in range(1, 63):
         # Format: BSDSF24M001, BSDSF24M002, ...
         roll_no = f"BSDSF24M{i:03d}"
